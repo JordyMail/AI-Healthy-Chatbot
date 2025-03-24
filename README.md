@@ -166,6 +166,3 @@ AI-Healthy-Chatbot/
 - Enhance chatbot accuracy with custom AI models.
 - Enable OAuth-based login and integration with fitness trackers.
 
-## License
-This project is licensed under the MIT License. See `LICENSE` for more details.
-
